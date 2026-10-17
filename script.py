@@ -27,4 +27,8 @@ if __name__ == "__main__":
         else:
             print("Error: Las notas deben estar en el rango de 0 a 5.")
     except ValueError:
-        print("Error: Ingrese valores numéricos válidos.")
+        print("Error: Ingrese valores numéricos válidos.") 
+        
+
+ 
+    
